@@ -4,11 +4,11 @@ header h2 {
 }
 
 header p {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .byline {
-  font-size: 1em;
+  font-size: 0.5em;
   font-weight: bold;
   text-transform: uppercase;
   margin-top: 2em;
