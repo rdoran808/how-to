@@ -22,6 +22,12 @@ body {
 
 p {font-size: 1.2em}
 
+.container {font-size:1.2em}
+
+ul {font-size:1.2em}
+
+ol {font-size:1.2em}
+
 img {
 max-width: 100%;
 height: auto;
