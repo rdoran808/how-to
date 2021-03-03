@@ -39,11 +39,11 @@ ul {
   font-size:1.2em;
   border: 2px solid #fff;
   padding-bottom: 1em;
-  padding-right: 1em
+  padding-right: 2em
 }
 
-ol {
-  font-size:1.2em
+ul li {
+  margin-left: 1em;
 }
 
 
