@@ -19,6 +19,10 @@ header p {
   margin-top: 2em;
 }
 
+a:visited {
+  color: blue
+}
+
 body {
  background-color: #f4f0db;
   max-width: 40em;
